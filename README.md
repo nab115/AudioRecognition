@@ -1,8 +1,10 @@
 # AudioRecognition
 DESCRIPTION
+
 This is a personal project to practice the concepts in machine learning and signal processing that I am learning this semester
 
 GOALS
+
 To create a simple neural network classifier which can distinguish between a few voice commands such as "Stop" and "Go"
 Once this is created and tested, it will be implemented on an arduino and used to control a small electric car
 
