@@ -3,6 +3,9 @@ DESCRIPTION
 
 This is a personal project to practice the concepts in machine learning and signal processing that I am learning this semester
 
+The .wav files are all sound clips generated using the free software Audacity.
+The .m file is the MatLab script which will be used to classify the data.
+
 GOALS
 
 To create a simple neural network classifier which can distinguish between a few voice commands such as "Stop" and "Go"
